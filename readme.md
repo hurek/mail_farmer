@@ -1,4 +1,6 @@
 # Rambler Email Autoreg
+Note: The project is made for educational purposes to understand how playwright and captcha services work.
+Use the code wisely and for educational purposes.
 
 ## Quick start
 
